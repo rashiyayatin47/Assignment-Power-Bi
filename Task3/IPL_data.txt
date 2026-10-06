@@ -1,0 +1,6 @@
+MatchID,Date,Team1,Team2,Team1Score,Team2Score,Winner
+1,2024-03-23,Mumbai Indians,Chennai Super Kings,180,175,Mumbai Indians
+2,2024-03-24,Royal Challengers Bangalore,Kolkata Knight Riders,165,170,Kolkata Knight Riders
+3,2024-03-25,Delhi Capitals,Sunrisers Hyderabad,190,160,Delhi Capitals
+4,2024-03-26,Rajasthan Royals,Punjab Kings,200,198,Rajasthan Royals
+5,2024-03-27,Chennai Super Kings,Royal Challengers Bangalore,185,190,Royal Challengers Bangalore

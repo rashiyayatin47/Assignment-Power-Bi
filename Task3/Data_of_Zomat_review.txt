@@ -1,0 +1,21 @@
+Restaurant_ID,User_Name,Review_Text,Rating
+R001,Amit,"Great food and ambience!",5
+R002,Neha,"Loved the seafood platter.",4
+R003,Raj,"Pasta was decent but service slow.",3
+R004,Simran,"Healthy options and fresh salads.",5
+R005,Arjun,"Barbecue was smoky and flavorful.",4
+R006,Meera,"Best pastries in town!",5
+R007,Karan,"Good taste but crowded.",3
+R008,Ananya,"Authentic sushi experience.",5
+R009,Ravi,"Average burgers, nothing special.",3
+R010,Pooja,"Thai curry was delicious.",4
+R011,Sahil,"Perfect for family dinners.",5
+R012,Divya,"Nice coffee and sandwiches.",4
+R013,Manish,"Rich flavors and royal vibe.",5
+R014,Rekha,"Loved the vegan menu.",4
+R015,Deepak,"Pizza crust was amazing.",5
+R016,Anil,"Snacks were okay.",3
+R017,Shreya,"Great noodles and quick service.",4
+R018,Vikram,"Tandoori chicken was top-notch.",5
+R019,Payal,"Cozy café with good desserts.",4
+R020,Ritesh,"Nice Indian food variety.",4
